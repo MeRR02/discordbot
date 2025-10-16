@@ -1,6 +1,6 @@
 .env
 .venv/
-discord.log
+*.log
 __pycache__/
 *.pyc
 .DS_Store
